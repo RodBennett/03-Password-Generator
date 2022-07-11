@@ -1,6 +1,7 @@
 # 03-Random-Password-Generator
 
-# 03-Password-Generator
+Link to deployed application:
+https://rodbennett.github.io/03-Random-Password-Generator/
 
 In this project, I created a random password generator with JavaScript that can be between the length of 8 - 128 characters according to user's preferences.
 
