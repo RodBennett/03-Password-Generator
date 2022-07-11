@@ -97,9 +97,10 @@ for (let i = 0; i < userChoice; i++) {
 }
 return finalPassword;
 };
-// Assignment Code
+// Generate button:
 var generateBtn = document.querySelector("#generate");
 
+// Displaying the random password in the box:
 var password = "";
 function writePassword() {
   var password = generatePassword();
