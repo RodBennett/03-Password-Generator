@@ -12,6 +12,6 @@ After choosing the number and character types for their password, the client hit
 
 <img width="823" alt="Screen Shot 2022-07-11 at 3 45 29 PM" src="https://user-images.githubusercontent.com/106923428/178364245-2df8d57e-4fab-4b27-bd7c-629837f63080.png">
 
-This was deifintely a challenging assignment for someone new yo Javascript like me. But it was also very rewarding as it gave me a good foundational knowledge of this powerful coding laguage.
+This was deifintely a challenging assignment for someone new to Javascript like me. But it was also very rewarding as it gave me a good foundational knowledge of this powerful coding laguage.
 
 
